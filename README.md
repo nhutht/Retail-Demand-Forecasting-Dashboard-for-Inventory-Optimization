@@ -191,7 +191,7 @@ Retail-Demand-Forecasting-Dashboard-for-Inventory-Optimization/
 
 ![Dashboard Preview](Retail_Demand_Forecasting_Dashboard.pdf)
 
-> *Export your dashboard as an image from Power BI Desktop (**File → Export → Export to PNG**) and place it at `assets/dashboard_preview.png`.*
+
 
 ---
 
