@@ -167,10 +167,10 @@ This dashboard helps transform raw retail data into actionable business insights
 ##  Repository Structure
 
 ```
-retail-demand-forecasting/
+Retail-Demand-Forecasting-Dashboard-for-Inventory-Optimization/
 │
-├── retail_dashboard.pbix        # Power BI report file
-├── forecast_result.csv          # Sample forecast output
+├── thesis.pbix        # Power BI report file
+├── forecast_result_stage9.csv          # Sample forecast output
 ├── README.md                    # This file
 ├── LICENSE                      # MIT License
 ```
